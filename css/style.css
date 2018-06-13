@@ -96,7 +96,8 @@ body {
   padding: 5px 10px;
   color: #fff;
   text-align: left;
-  background-color: #848482;
+  background-color: #283e4a;
+  border-radius: 8px;
 }
 
 .header-bar .address {
